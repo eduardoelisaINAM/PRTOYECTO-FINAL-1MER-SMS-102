@@ -1,0 +1,24 @@
+.nav {
+  color: var(--bs-blue);
+  background-color: var(--bs-gray-100);
+}
+
+.nav:hover {
+  color: var(--bs-danger);
+  background-color: var(--bs-gray-900);
+}
+
+.footer-basic {
+  color: var(--bs-indigo);
+  background-color: var(--bs-blue);
+}
+
+.footer-basic:hover {
+  color: var(--bs-green);
+  background-color: var(--bs-info);
+}
+
+img:hover {
+  filter: brightness(70%);
+}
+
